@@ -1,65 +1,56 @@
 #EXTM3U x-tvg-url="https://raw.githubusercontent.com/itv-res/epg/master/it.xml"
 
-# --- TOP 10 (Per ascolti 2025/2026) ---
+# --- TOP 10 RADIO ITALIA ---
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/d4/RTL_102.5_logo.png", RTL 102.5
-http://shoutcast.rtl.it:3030/stream/1/
+#EXTINF:-1 tvg-id="RTL102.5" tvg-logo="https://raw.githubusercontent.com/frizzed-it/tv-logos/main/logos/radio/rtl-102-5.png", RTL 102.5
+https://shoutcast.rtl.it/stream/1/proxy.mp3
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/it/2/23/Radio_Italia_Logo_2012.png", Radio Italia Solo Musica Italiana
-https://stream1.radioitalia.it/
+#EXTINF:-1 tvg-id="RadioItalia" tvg-logo="https://raw.githubusercontent.com/frizzed-it/tv-logos/main/logos/radio/radio-italia.png", Radio Italia Solo Musica Italiana
+https://stream1.radioitalia.it/proxy.mp3
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/it/b/b2/RDS_logo.png", RDS 100% Grandi Successi
-http://stream1.rds.it:8000/rds64k
+#EXTINF:-1 tvg-id="RDS" tvg-logo="https://raw.githubusercontent.com/frizzed-it/tv-logos/main/logos/radio/rds.png", RDS 100% Grandi Successi
+https://broadcast.rds.it:8000/rds.mp3
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/it/4/4a/Radio_Deejay_logo.png", Radio Deejay
-https://radiodeejay-lh.akamaihd.net/i/RadioDeejay_Live_1@189857/master.m3u8
+#EXTINF:-1 tvg-id="Deejay" tvg-logo="https://raw.githubusercontent.com/frizzed-it/tv-logos/main/logos/radio/radio-deejay.png", Radio Deejay
+https://deejay.akamaized.net/hls/live/2017235/deejay/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/it/1/16/Radio_105_logo.png", Radio 105
-http://icecast.unitedradio.it/Radio105.mp3
+#EXTINF:-1 tvg-id="105" tvg-logo="https://raw.githubusercontent.com/frizzed-it/tv-logos/main/logos/radio/radio-105.png", Radio 105
+https://icestreaming.radio105.it/Radio105.mp3
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/it/3/36/Radio_Kiss_Kiss_logo.png", Radio Kiss Kiss
-http://ice07.fluidstream.net:8080/KissKiss.mp3
+#EXTINF:-1 tvg-id="KissKiss" tvg-logo="https://raw.githubusercontent.com/frizzed-it/tv-logos/main/logos/radio/radio-kiss-kiss.png", Radio Kiss Kiss
+https://ice07.fluidstream.net/KissKiss.mp3
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/it/d/d4/Rai_Radio_1_logo_%282017%29.svg", Rai Radio 1
-http://icestreaming.rai.it/1.mp3
+#EXTINF:-1 tvg-id="RaiRadio1" tvg-logo="https://raw.githubusercontent.com/frizzed-it/tv-logos/main/logos/radio/rai-radio-1.png", Rai Radio 1
+https://icestreaming.rai.it/1.mp3
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/it/0/06/Virgin_Radio_logo.png", Virgin Radio
-http://icecast.unitedradio.it/Virgin.mp3
+#EXTINF:-1 tvg-id="Virgin" tvg-logo="https://raw.githubusercontent.com/frizzed-it/tv-logos/main/logos/radio/virgin-radio.png", Virgin Radio
+https://icestreaming.virginradio.it/Virgin.mp3
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/it/9/90/Radio_24_logo.png", Radio 24
-http://shoutcast.radio24.it:8000/listen.mp3
+#EXTINF:-1 tvg-id="Radio24" tvg-logo="https://raw.githubusercontent.com/frizzed-it/tv-logos/main/logos/radio/radio-24.png", Radio 24
+https://shoutcast.radio24.it/listen.mp3
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/it/e/e0/Rai_Radio_2_logo_%282017%29.svg", Rai Radio 2
-http://icestreaming.rai.it/2.mp3
+#EXTINF:-1 tvg-id="RaiRadio2" tvg-logo="https://raw.githubusercontent.com/frizzed-it/tv-logos/main/logos/radio/rai-radio-2.png", Rai Radio 2
+https://icestreaming.rai.it/2.mp3
 
-# --- ALTRE RADIO (Ordine Alfabetico) ---
+# --- ORDINE ALFABETICO ---
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/it/d/db/Discoradio_logo.png", Discoradio
-https://46.37.20.206:1935/live/1discoradio.stream/playlist.m3u8
+#EXTINF:-1 tvg-id="Capital" tvg-logo="https://raw.githubusercontent.com/frizzed-it/tv-logos/main/logos/radio/radio-capital.png", Radio Capital
+https://capital.akamaized.net/hls/live/2017236/capital/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/it/7/77/M2o_logo.png", m2o
-https://radiom2o-lh.akamaihd.net/i/RadioM2o_Live_1@42518/master.m3u8
+#EXTINF:-1 tvg-id="m2o" tvg-logo="https://raw.githubusercontent.com/frizzed-it/tv-logos/main/logos/radio/m2o.png", m2o
+https://m2o.akamaized.net/hls/live/2017237/m2o/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/it/6/60/R101_logo.png", R101
-http://icecast.unitedradio.it/r101
+#EXTINF:-1 tvg-id="R101" tvg-logo="https://raw.githubusercontent.com/frizzed-it/tv-logos/main/logos/radio/r101.png", R101
+https://icestreaming.r101.it/R101.mp3
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/it/1/1a/Radio_Bruno_logo.png", Radio Bruno
-http://stream.radiobruno.it/radiobruno.mp3
+#EXTINF:-1 tvg-id="RadioBruno" tvg-logo="https://raw.githubusercontent.com/frizzed-it/tv-logos/main/logos/radio/radio-bruno.png", Radio Bruno
+https://stream.radiobruno.it/radiobruno.mp3
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/it/e/e6/Radio_Capital_logo.png", Radio Capital
-https://radiocapital-lh.akamaihd.net/i/RadioCapital_Live_1@196312/master.m3u8
+#EXTINF:-1 tvg-id="RMC" tvg-logo="https://raw.githubusercontent.com/frizzed-it/tv-logos/main/logos/radio/radio-monte-carlo.png", Radio Monte Carlo
+https://icestreaming.radiomontecarlo.it/RMC.mp3
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/it/4/4e/Radio_Margherita_logo.png", Radio Margherita
-http://onair20.xdevel.com:8018/
+#EXTINF:-1 tvg-id="Subasio" tvg-logo="https://raw.githubusercontent.com/frizzed-it/tv-logos/main/logos/radio/radio-subasio.png", Radio Subasio
+https://onair18.xdevel.com/proxy/subasio.mp3
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/it/5/5a/Radio_Monte_Carlo_logo.png", Radio Monte Carlo
-http://icecast.unitedradio.it/RMC.mp3
-
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/it/d/db/Radio_Subasio_logo.png", Radio Subasio
-http://onair18.xdevel.com:8152
-
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/it/0/05/Radiofreccia_logo.png", Radiofreccia
-http://shoutcast.rtl.it:3030/stream/5/
-
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/it/8/8c/Rai_Radio_3_logo_%282017%29.svg", Rai Radio 3
-http://icestreaming.rai.it/3.mp3
+#EXTINF:-1 tvg-id="Radiofreccia" tvg-logo="https://raw.githubusercontent.com/frizzed-it/tv-logos/main/logos/radio/radiofreccia.png", Radiofreccia
+https://shoutcast.rtl.it/stream/5/proxy.mp3
