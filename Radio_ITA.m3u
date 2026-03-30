@@ -1,56 +1,56 @@
 #EXTM3U x-tvg-url="https://raw.githubusercontent.com/itv-res/epg/master/it.xml"
 
-# --- TOP 10 RADIO ITALIA ---
+# --- TOP 10 RADIO (Flussi Stabili) ---
 
-#EXTINF:-1 tvg-id="RTL102.5" tvg-logo="https://raw.githubusercontent.com/frizzed-it/tv-logos/main/logos/radio/rtl-102-5.png", RTL 102.5
-https://shoutcast.rtl.it/stream/1/proxy.mp3
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/pablito86/itv/master/logos/radio/rtl1025.png", RTL 102.5
+https://shoutcast.rtl.it:3030/stream/1/
 
-#EXTINF:-1 tvg-id="RadioItalia" tvg-logo="https://raw.githubusercontent.com/frizzed-it/tv-logos/main/logos/radio/radio-italia.png", Radio Italia Solo Musica Italiana
-https://stream1.radioitalia.it/proxy.mp3
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/pablito86/itv/master/logos/radio/radioitalia.png", Radio Italia Solo Musica Italiana
+https://stream1.radioitalia.it/
 
-#EXTINF:-1 tvg-id="RDS" tvg-logo="https://raw.githubusercontent.com/frizzed-it/tv-logos/main/logos/radio/rds.png", RDS 100% Grandi Successi
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/pablito86/itv/master/logos/radio/rds.png", RDS 100% Grandi Successi
 https://broadcast.rds.it:8000/rds.mp3
 
-#EXTINF:-1 tvg-id="Deejay" tvg-logo="https://raw.githubusercontent.com/frizzed-it/tv-logos/main/logos/radio/radio-deejay.png", Radio Deejay
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/pablito86/itv/master/logos/radio/deejay.png", Radio Deejay
 https://deejay.akamaized.net/hls/live/2017235/deejay/playlist.m3u8
 
-#EXTINF:-1 tvg-id="105" tvg-logo="https://raw.githubusercontent.com/frizzed-it/tv-logos/main/logos/radio/radio-105.png", Radio 105
-https://icestreaming.radio105.it/Radio105.mp3
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/pablito86/itv/master/logos/radio/105.png", Radio 105
+http://icecast.unitedradio.it/Radio105.mp3
 
-#EXTINF:-1 tvg-id="KissKiss" tvg-logo="https://raw.githubusercontent.com/frizzed-it/tv-logos/main/logos/radio/radio-kiss-kiss.png", Radio Kiss Kiss
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/pablito86/itv/master/logos/radio/kisskiss.png", Radio Kiss Kiss
 https://ice07.fluidstream.net/KissKiss.mp3
 
-#EXTINF:-1 tvg-id="RaiRadio1" tvg-logo="https://raw.githubusercontent.com/frizzed-it/tv-logos/main/logos/radio/rai-radio-1.png", Rai Radio 1
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/pablito86/itv/master/logos/radio/rai1.png", Rai Radio 1
 https://icestreaming.rai.it/1.mp3
 
-#EXTINF:-1 tvg-id="Virgin" tvg-logo="https://raw.githubusercontent.com/frizzed-it/tv-logos/main/logos/radio/virgin-radio.png", Virgin Radio
-https://icestreaming.virginradio.it/Virgin.mp3
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/pablito86/itv/master/logos/radio/virgin.png", Virgin Radio
+http://icecast.unitedradio.it/Virgin.mp3
 
-#EXTINF:-1 tvg-id="Radio24" tvg-logo="https://raw.githubusercontent.com/frizzed-it/tv-logos/main/logos/radio/radio-24.png", Radio 24
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/pablito86/itv/master/logos/radio/radio24.png", Radio 24
 https://shoutcast.radio24.it/listen.mp3
 
-#EXTINF:-1 tvg-id="RaiRadio2" tvg-logo="https://raw.githubusercontent.com/frizzed-it/tv-logos/main/logos/radio/rai-radio-2.png", Rai Radio 2
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/pablito86/itv/master/logos/radio/rai2.png", Rai Radio 2
 https://icestreaming.rai.it/2.mp3
 
 # --- ORDINE ALFABETICO ---
 
-#EXTINF:-1 tvg-id="Capital" tvg-logo="https://raw.githubusercontent.com/frizzed-it/tv-logos/main/logos/radio/radio-capital.png", Radio Capital
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/pablito86/itv/master/logos/radio/capital.png", Radio Capital
 https://capital.akamaized.net/hls/live/2017236/capital/playlist.m3u8
 
-#EXTINF:-1 tvg-id="m2o" tvg-logo="https://raw.githubusercontent.com/frizzed-it/tv-logos/main/logos/radio/m2o.png", m2o
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/pablito86/itv/master/logos/radio/m2o.png", m2o
 https://m2o.akamaized.net/hls/live/2017237/m2o/playlist.m3u8
 
-#EXTINF:-1 tvg-id="R101" tvg-logo="https://raw.githubusercontent.com/frizzed-it/tv-logos/main/logos/radio/r101.png", R101
-https://icestreaming.r101.it/R101.mp3
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/pablito86/itv/master/logos/radio/r101.png", R101
+http://icecast.unitedradio.it/r101
 
-#EXTINF:-1 tvg-id="RadioBruno" tvg-logo="https://raw.githubusercontent.com/frizzed-it/tv-logos/main/logos/radio/radio-bruno.png", Radio Bruno
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/pablito86/itv/master/logos/radio/bruno.png", Radio Bruno
 https://stream.radiobruno.it/radiobruno.mp3
 
-#EXTINF:-1 tvg-id="RMC" tvg-logo="https://raw.githubusercontent.com/frizzed-it/tv-logos/main/logos/radio/radio-monte-carlo.png", Radio Monte Carlo
-https://icestreaming.radiomontecarlo.it/RMC.mp3
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/pablito86/itv/master/logos/radio/rmc.png", Radio Monte Carlo
+http://icecast.unitedradio.it/RMC.mp3
 
-#EXTINF:-1 tvg-id="Subasio" tvg-logo="https://raw.githubusercontent.com/frizzed-it/tv-logos/main/logos/radio/radio-subasio.png", Radio Subasio
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/pablito86/itv/master/logos/radio/subasio.png", Radio Subasio
 https://onair18.xdevel.com/proxy/subasio.mp3
 
-#EXTINF:-1 tvg-id="Radiofreccia" tvg-logo="https://raw.githubusercontent.com/frizzed-it/tv-logos/main/logos/radio/radiofreccia.png", Radiofreccia
-https://shoutcast.rtl.it/stream/5/proxy.mp3
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/pablito86/itv/master/logos/radio/freccia.png", Radiofreccia
+https://shoutcast.rtl.it:3030/stream/5/
