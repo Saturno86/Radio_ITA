@@ -1,0 +1,71 @@
+#EXTM3U url-tvg="https://iptv-org.github.io/epg/guides/it.xml"
+
+# TOP 10
+#EXTINF:-1 tvg-id="rtl1025.it" tvg-logo="https://i.imgur.com/8YqYQ9F.png",RTL 102.5
+http://streamingv2.shoutcast.com/rtl-1025
+#EXTINF:-1 tvg-id="radiodeejay.it" tvg-logo="https://i.imgur.com/7bK0FQp.png",Radio Deejay
+https://4c4b867c89244861ac216426883d1ad0.msvdn.net/radiodeejay/radiodeejay/master_ma.m3u8
+#EXTINF:-1 tvg-id="rds.it" tvg-logo="https://i.imgur.com/6pGQwYk.png",RDS
+https://icstreaming.rai.it/rds
+#EXTINF:-1 tvg-id="radio105.it" tvg-logo="https://i.imgur.com/jK9Xx8F.png",Radio 105
+http://icecast.unitedradio.it/Radio105.mp3
+#EXTINF:-1 tvg-id="virginradio.it" tvg-logo="https://i.imgur.com/Ql6M6bO.png",Virgin Radio
+http://icecast.unitedradio.it/Virgin.mp3
+#EXTINF:-1 tvg-id="rmc.it" tvg-logo="https://i.imgur.com/3XKJmQp.png",Radio Monte Carlo
+http://icecast.unitedradio.it/RMC.mp3
+#EXTINF:-1 tvg-id="radiocapital.it" tvg-logo="https://i.imgur.com/Zk7Zl2G.png",Radio Capital
+http://icecast.unitedradio.it/RadioCapital.mp3
+#EXTINF:-1 tvg-id="m2o.it" tvg-logo="https://i.imgur.com/W2mXKXb.png",m2o Radio
+http://icecast.unitedradio.it/m2o.mp3
+#EXTINF:-1 tvg-id="radiokisskiss.it" tvg-logo="https://i.imgur.com/yvV3Z3T.png",Radio Kiss Kiss
+http://icecast.unitedradio.it/KissKiss.mp3
+#EXTINF:-1 tvg-id="r101.it" tvg-logo="https://i.imgur.com/FkK7G3l.png",R101
+http://icecast.unitedradio.it/R101.mp3
+
+# A-Z
+#EXTINF:-1 tvg-id="isoradio.it" tvg-logo="https://i.imgur.com/0FZ9w9F.png",Isoradio
+https://icstreaming.rai.it/isoradio.mp3
+#EXTINF:-1 tvg-id="rai1.it" tvg-logo="https://i.imgur.com/2v7Z8rA.png",Rai Radio 1
+https://icstreaming.rai.it/1.mp3
+#EXTINF:-1 tvg-id="rai2.it" tvg-logo="https://i.imgur.com/X0f0RkO.png",Rai Radio 2
+https://icstreaming.rai.it/2.mp3
+#EXTINF:-1 tvg-id="rai3.it" tvg-logo="https://i.imgur.com/0gRk7pZ.png",Rai Radio 3
+https://icstreaming.rai.it/3.mp3
+#EXTINF:-1 tvg-id="raitutitalia.it" tvg-logo="https://i.imgur.com/Qr3wZ1p.png",Rai Radio Tutta Italiana
+https://icstreaming.rai.it/italia.mp3
+#EXTINF:-1 tvg-id="radio24.it" tvg-logo="https://i.imgur.com/XpY8w7V.png",Radio 24
+http://stream.radio24.ilsole24ore.com/radio24.mp3
+#EXTINF:-1 tvg-logo="https://i.imgur.com/Nh3Rk2l.png",Radio Birikina
+http://streaming.birikina.it/birikina.mp3
+#EXTINF:-1 tvg-logo="https://i.imgur.com/7mVdK9x.png",Radio Bruno
+http://streaming.radiobruno.it:8000/bruno.mp3
+#EXTINF:-1 tvg-logo="https://i.imgur.com/LwP8ZqE.png",Radio Freccia
+http://icecast.unitedradio.it/RadioFreccia.mp3
+#EXTINF:-1 tvg-logo="https://i.imgur.com/vk9P8nT.png",Radio Ibiza
+http://wma02.fluidstream.net/RadioIbiza.mp3
+#EXTINF:-1 tvg-id="radioitalia.it" tvg-logo="https://i.imgur.com/9YkXQpK.png",Radio Italia SMi
+http://icecast.radioitalia.it/RadioItalia.mp3
+#EXTINF:-1 tvg-id="radiomaria.it" tvg-logo="https://i.imgur.com/1pR3l7K.png",Radio Maria
+http://streaming.radiomaria.org/radiomaria.mp3
+#EXTINF:-1 tvg-logo="https://i.imgur.com/t7sX3kL.png",Radio Norba
+http://onair18.xdevel.com:8112/
+#EXTINF:-1 tvg-logo="https://i.imgur.com/6LpXwQp.png",Radio Number One
+http://shoutcast.rn1.it/stream
+#EXTINF:-1 tvg-id="radioradicale.it" tvg-logo="https://i.imgur.com/3mP9K8F.png",Radio Radicale
+http://streaming.radioradicale.it/live.mp3
+#EXTINF:-1 tvg-logo="https://i.imgur.com/x3Zp8WQ.png",Radio Sportiva
+http://streaming.radiosportiva.com/live.mp3
+#EXTINF:-1 tvg-logo="https://i.imgur.com/8Lp2WkZ.png",Radio Subasio
+http://streaming.subasio.it/subasio.mp3
+#EXTINF:-1 tvg-id="radiozeta.it" tvg-logo="https://i.imgur.com/4pLk9XQ.png",Radio Zeta
+http://shoutcast.rtl.it:3030/stream
+#EXTINF:-1 tvg-logo="https://i.imgur.com/2ZkP8lQ.png",RTL 102.5 Best
+http://shoutcast.rtl.it:3020/stream
+#EXTINF:-1 tvg-logo="https://i.imgur.com/9XpL3Qk.png",RTL 102.5 Disco
+http://shoutcast.rtl.it:3060/stream
+#EXTINF:-1 tvg-logo="https://i.imgur.com/5LpX2Qp.png",RTL 102.5 Lounge
+http://shoutcast.rtl.it:3070/stream
+#EXTINF:-1 tvg-logo="https://i.imgur.com/YkP9W2L.png",Radio 105 Dance
+http://icy.unitedradio.it/105Dance90.mp3
+#EXTINF:-1 tvg-logo="https://i.imgur.com/3Lp9QkX.png",Radio 105 Hits
+http://icy.unitedradio.it/105Hits.mp3
